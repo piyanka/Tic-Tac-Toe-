@@ -11,9 +11,9 @@ This is a simple and interactive Tic Tac Toe game built using HTML, CSS, JavaScr
 
 ## Preview
 
-![Tic Tac Toe Game Preview](C:\Users\My pc\OneDrive\Pictures\Screenshots.png)
+![Tic Tac Toe Game Preview](TICTACTOE.png)
 
-*Add a screenshot of your game here to show how it looks in the browser.*
+
 
 
 ## Technologies Used
@@ -27,7 +27,7 @@ This is a simple and interactive Tic Tac Toe game built using HTML, CSS, JavaScr
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/piyanka/tic-tac-toe.git
    ```
    
 2. **Navigate to the project directory**:
